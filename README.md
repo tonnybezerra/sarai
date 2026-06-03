@@ -115,5 +115,5 @@ Desenvolvido por:
 
 ## 📝 Licença
 
-Este projeto está sob a licença [MIT](./LICENSE). Veja o arquivo para mais detalhes.
+Não há licenças.
 
