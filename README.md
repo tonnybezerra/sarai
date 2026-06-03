@@ -1,4 +1,4 @@
-# SARAI - Especialista em Remuneração e Analista de comparativos com pesquisas de mercado
+# SARAI - Especialista em Remuneração e Analista de comparativos com pesquisas de mercado usando AI
 
 > Uma aplicação intuitiva para consulta de informações sobfe estratégias de remuneração e efetuar estudos específicas ou de base com diversas pessoas a serem analisadas em grupo.
 
