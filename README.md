@@ -104,7 +104,7 @@ Desenvolvido por:
   <tr>
     <td align="center">
       <a href="https://github.com">
-        <img src="https://unsplash.com" width="100px;" alt="Foto do Autor"/><br />
+        <img src="[https://unsplash.com](https://avatars.githubusercontent.com/u/128111975?s=400&u=115ced62a6f7b51f836313d90c9452eb98781109&v=4)" width="100px;" alt="Foto do Autor"/><br />
         <sub><b>Antonio Gonçalves Bezerra Filho</b></sub>
       </a>
     </td>
