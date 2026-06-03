@@ -105,7 +105,7 @@ Desenvolvido por:
     <td align="center">
       <a href="https://github.com">
         <img src="https://unsplash.com" width="100px;" alt="Foto do Autor"/><br />
-        <sub><b>João Silva</b></sub>
+        <sub><b>Antonio Gonçalves Bezerra Filho</b></sub>
       </a>
     </td>
   </tr>
