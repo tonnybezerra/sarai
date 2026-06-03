@@ -104,7 +104,7 @@ Desenvolvido por:
   <tr>
     <td align="center">
       <a href="https://github.com">
-        <img src="//*[@id="settings-frame"]/div[2]/div[2]/dl/dd/div/details/summary/img" width="100px;" alt="Foto do Autor"/><br />
+       <img src="https://github.com" width="100px;" alt="tonnybezerra/><br />
         <sub><b>Antonio Gonçalves Bezerra Filho</b></sub>
       </a>
     </td>
