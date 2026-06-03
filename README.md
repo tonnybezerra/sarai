@@ -1,6 +1,6 @@
 # SARAI - Especialista em Remuneração e Analista de comparativos com pesquisas de mercado
 
-> Uma aplicação intuitiva para consulta de informações sobfe estratégias de remuneração e efetuar estudos de pessoas específicas ou de base com diversas pessoas a serem analisadas em grupo.
+> Uma aplicação intuitiva para consulta de informações sobfe estratégias de remuneração e efetuar estudos específicas ou de base com diversas pessoas a serem analisadas em grupo.
 
 ![GitHub repo size](https://shields.io)
 ![GitHub language count](https://shields.io)
