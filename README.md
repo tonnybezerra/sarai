@@ -23,21 +23,16 @@
 
 ## 💻 Sobre o Projeto
 
-O TaskMaster nasceu da necessidade de gerenciar pendências diárias sem distrações. O projeto foi desenvolvido para ajudar profissionais autônomos a listar, categorizar e priorizar atividades diárias de forma rápida, funcionando tanto no computador quanto no celular.
-
-<p align="center">
-  <img src="https://unsplash.com" alt="Demonstração do TaskMaster">
-</p>
+A SarAI nasceu da necessidade de ter informações sobre remuneração estratégica, bem como efetuar comparativos de dados de remuneração interna e com o mercado.
 
 ---
 
 ## ✨ Funcionalidades
 
-- [x] Criação, edição e exclusão de tarefas.
-- [x] Filtro de tarefas por categoria (Trabalho, Pessoal, Estudos).
-- [x] Sistema de arrastar e soltar (Drag and Drop) para reordenar a prioridade.
-- [ ] Notificações no navegador para prazos quase vencendo.
-- [ ] Modo escuro (Dark Mode).
+- [x] Consultar informações sobre Remuneração Estratégica.
+- [x] Efetuar comparativo de um funcionário com o Mercado.
+- [x] Efetuar uma consulta individual de um candidato efetuando um comparaçãp interna e com o mercado.
+- [ ] Fazer estudos de análise de remuneração comparativa de uma lista de funcionários com dados internos e de mercado.
 
 ---
 
@@ -45,45 +40,31 @@ O TaskMaster nasceu da necessidade de gerenciar pendências diárias sem distra�
 
 As principais ferramentas usadas no desenvolvimento:
 
-- **TypeScript** - Linguagem base do projeto para maior segurança no código.
-- **React.js** - Biblioteca para construção da interface de usuário.
-- **Tailwind CSS** - Framework utilitário para estilização rápida e responsiva.
-- **LocalStorage** - Armazenamento local no navegador para persistência dos dados.
-
----
+- Excel
+- Sites especializados
+- ---
 
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
 
 Você vai precisar das seguintes ferramentas instaladas:
-- [Git](https://git-scm.com)
-- [Node.js](https://nodejs.org) (Versão 18 ou superior)
-
+- Planilhas em Excel:
+  - Base de Dados para Análise
+  - Base de Matching
+  - Base de Resultados de Pesquisas
+ 
 ### Passo a Passo
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com
-   ```
-
-2. **Acesse a pasta do projeto:**
-   ```bash
-   cd taskmaster
-   ```
-
-3. **Instale as dependências:**
+1. Preparar a base de dados para análise
+2. Preparar a base de matchings
+3. Preparar a base de resultados de pesquisas salariais de mercado
+   
+   
+4. **Instale as dependências:**
    ```bash
    npm install
    ```
-
-4. **Execute a aplicação em modo de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-
-Acesse `http://localhost:5173` no seu navegador para ver o sistema rodando.
-
 ---
 
 ## 🤝 Como Contribuir
