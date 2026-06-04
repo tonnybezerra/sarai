@@ -2,11 +2,6 @@
 
 > Uma aplicação intuitiva para consulta de informações sobfe estratégias de remuneração e efetuar estudos específicas ou de base com diversas pessoas a serem analisadas em grupo.
 
-![GitHub repo size](https://shields.io)
-![GitHub language count](https://shields.io)
-![GitHub forks](https://shields.io)
-![Github open issues](https://shields.io)
-
 ---
 
 ## 📋 Índice
